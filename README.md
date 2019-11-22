@@ -14,8 +14,8 @@ iPad Air 2 and earlier | Oct 2014 | Lightning | 10W (2.1A) USB-A | 10W
 iPad Pro (3ʳᵈ) 12.9" | Nov 2018 | USB-C | 18W USB-C | 18W
 iPad Pro (2ⁿᵈ) 12.9" and earlier | Jun 2017 | Lightning | 18W USB-C | 18W
 iPad Pro (3ʳᵈ) 11" | Nov 2018 | USB-C | 18W USB-C | 18W
-iPad Pro (2ⁿᵈ) 10.5" | Jun 2017 | Lightning | | 18W
-iPad Pro (1ˢᵗ) 9.7" | Mar 2016 | Lightning | | 
+iPad Pro (2ⁿᵈ) 10.5" | Jun 2017 | Lightning | 10W (2.1A) USB-A | 18W
+iPad Pro (1ˢᵗ) 9.7" | Mar 2016 | Lightning | 10W (2.1A) USB-A | 
 
 ### iPhone
 
