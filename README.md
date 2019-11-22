@@ -22,9 +22,14 @@ iPad Pro (1ˢᵗ) 9.7" | Mar 2016 | Lightning | |
 Device | Release | Connector | Charger | Supports
 ------ | ------- | --------- | ------- | --------
 iPhone 11 Pro | Sep 2019 | Lightning | 18W USB-C | 18W
+iPhone 11 | Sep 2019 | Lightning | 5W USB-A | 18W
 iPhone XS/XR and earlier | Sep 2018 | Lightning | 5W USB-A | 18W
 iPhone 7 and earlier | Sep 2016 | Lightning | 5W USB-A | 5W
 iPhone 4S and earlier | Oct 2011 | 30-pin | 5W USB-A | 5W
+
+Note: iPhone 8/X and later (Sep/Nov 2017) can wireless charge at 5W.
+
+Note: iOS 11.2 and later (Dec 2017) allows wireless charging at 7.5W
 
 ### iPod Touch
 
