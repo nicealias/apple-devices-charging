@@ -2,7 +2,7 @@ What charger comes with what Apple device and what charging capabilities do the 
 
 ### iPad
 
-Device | Release | Connector | Charger | Supports
+Device | Released | Connector | Charger | Supports
 ------ | ------- | --------- | ------- | --------
 iPad (2019) | Sep 2019 | Lightning | 12W (2.4A) USB-A | 12W
 iPad (2018) and earlier | Mar 2018 | Lightning | 10W (2.1A) USB-A | 10W
@@ -19,7 +19,7 @@ iPad Pro (1ˢᵗ) 9.7" | Mar 2016 | Lightning | 10W (2.1A) USB-A |
 
 ### iPhone
 
-Device | Release | Connector | Charger | Supports
+Device | Released | Connector | Charger | Supports
 ------ | ------- | --------- | ------- | --------
 iPhone 11 Pro | Sep 2019 | Lightning | 18W USB-C | 18W
 iPhone 11 | Sep 2019 | Lightning | 5W USB-A | 18W
@@ -33,7 +33,7 @@ Note: iOS 11.2 and later (Dec 2017) allows wireless charging at 7.5W
 
 ### iPod Touch
 
-Device | Release | Connector | Charger | Supports
+Device | Released | Connector | Charger | Supports
 ------ | ------- | --------- | ------- | --------
 iPod Touch (7ᵗʰ) and earlier | May 2019 | Lightning | | 
 iPod Touch (4ᵗʰ) and earlier | Sep 2010 | 30-pin | |
